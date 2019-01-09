@@ -1,0 +1,77 @@
+PING 200.0.10.2 (200.0.10.2) 56(84) bytes of data.
+64 bytes from 200.0.10.2: icmp_seq=3 ttl=64 time=7.48 ms
+64 bytes from 200.0.10.2: icmp_seq=3 ttl=64 time=7.81 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=3 ttl=64 time=273 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=3 ttl=64 time=273 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=4 ttl=64 time=5.09 ms
+64 bytes from 200.0.10.2: icmp_seq=4 ttl=64 time=5.10 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=4 ttl=64 time=304 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=4 ttl=64 time=304 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=5 ttl=64 time=5.13 ms
+64 bytes from 200.0.10.2: icmp_seq=5 ttl=64 time=5.14 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=5 ttl=64 time=436 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=5 ttl=64 time=436 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=6 ttl=64 time=5.17 ms
+64 bytes from 200.0.10.2: icmp_seq=6 ttl=64 time=5.19 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=6 ttl=64 time=518 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=6 ttl=64 time=518 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=7 ttl=64 time=5.06 ms
+64 bytes from 200.0.10.2: icmp_seq=7 ttl=64 time=5.06 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=7 ttl=64 time=566 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=7 ttl=64 time=566 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=8 ttl=64 time=4.98 ms
+64 bytes from 200.0.10.2: icmp_seq=8 ttl=64 time=4.98 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=8 ttl=64 time=640 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=8 ttl=64 time=640 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=9 ttl=64 time=5.11 ms
+64 bytes from 200.0.10.2: icmp_seq=9 ttl=64 time=5.12 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=9 ttl=64 time=705 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=9 ttl=64 time=705 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=10 ttl=64 time=4.99 ms
+64 bytes from 200.0.10.2: icmp_seq=10 ttl=64 time=5.00 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=10 ttl=64 time=779 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=10 ttl=64 time=779 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=11 ttl=64 time=4.96 ms
+64 bytes from 200.0.10.2: icmp_seq=11 ttl=64 time=4.96 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=11 ttl=64 time=920 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=11 ttl=64 time=920 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=12 ttl=64 time=5.01 ms
+64 bytes from 200.0.10.2: icmp_seq=12 ttl=64 time=5.01 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=12 ttl=64 time=944 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=12 ttl=64 time=944 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=13 ttl=64 time=5.01 ms
+64 bytes from 200.0.10.2: icmp_seq=13 ttl=64 time=5.01 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=14 ttl=64 time=8.59 ms
+64 bytes from 200.0.10.2: icmp_seq=14 ttl=64 time=8.59 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=13 ttl=64 time=1076 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=13 ttl=64 time=1076 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=15 ttl=64 time=5.06 ms
+64 bytes from 200.0.10.2: icmp_seq=15 ttl=64 time=5.08 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=14 ttl=64 time=1108 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=14 ttl=64 time=1108 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=16 ttl=64 time=5.10 ms
+64 bytes from 200.0.10.2: icmp_seq=16 ttl=64 time=5.11 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=15 ttl=64 time=1199 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=15 ttl=64 time=1199 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=17 ttl=64 time=4.95 ms
+64 bytes from 200.0.10.2: icmp_seq=17 ttl=64 time=4.95 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=16 ttl=64 time=1288 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=16 ttl=64 time=1288 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=18 ttl=64 time=5.13 ms
+64 bytes from 200.0.10.2: icmp_seq=18 ttl=64 time=5.13 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=17 ttl=64 time=1378 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=17 ttl=64 time=1378 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=19 ttl=64 time=4.98 ms
+64 bytes from 200.0.10.2: icmp_seq=19 ttl=64 time=4.99 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=18 ttl=64 time=1433 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=18 ttl=64 time=1433 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=20 ttl=64 time=5.07 ms
+64 bytes from 200.0.10.2: icmp_seq=20 ttl=64 time=5.08 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=19 ttl=64 time=1524 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=19 ttl=64 time=1524 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=20 ttl=64 time=1610 ms (DUP!)
+64 bytes from 200.0.10.2: icmp_seq=20 ttl=64 time=1610 ms (DUP!)
+
+--- 200.0.10.2 ping statistics ---
+20 packets transmitted, 18 received, +54 duplicates, 10% packet loss, time 19020ms
+rtt min/avg/max/mdev = 4.958/466.836/1610.302/545.551 ms, pipe 2

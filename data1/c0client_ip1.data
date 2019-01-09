@@ -1,0 +1,48 @@
+------------------------------------------------------------
+Server listening on UDP port 5001
+Receiving 1470 byte datagrams
+UDP buffer size:  160 KByte (default)
+------------------------------------------------------------
+[  3] local 200.0.10.2 port 5001 connected with 200.0.10.100 port 46243
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0- 1.0 sec   281 KBytes  2.30 Mbits/sec  217.115 ms   71/  267 (27%)
+[  3]  0.0- 1.0 sec  85 datagrams received out-of-order
+[  3]  1.0- 2.0 sec   250 KBytes  2.05 Mbits/sec  318.012 ms    0/   89 (0%)
+[  3]  1.0- 2.0 sec  85 datagrams received out-of-order
+[  3]  2.0- 3.0 sec   243 KBytes  1.99 Mbits/sec  352.460 ms    0/   89 (0%)
+[  3]  2.0- 3.0 sec  80 datagrams received out-of-order
+[  3]  3.0- 4.0 sec   244 KBytes  2.00 Mbits/sec  401.426 ms    0/   89 (0%)
+[  3]  3.0- 4.0 sec  81 datagrams received out-of-order
+[  3]  4.0- 5.0 sec   248 KBytes  2.03 Mbits/sec  450.294 ms    0/   89 (0%)
+[  3]  4.0- 5.0 sec  84 datagrams received out-of-order
+[  3]  5.0- 6.0 sec   250 KBytes  2.05 Mbits/sec  526.701 ms    0/   90 (0%)
+[  3]  5.0- 6.0 sec  84 datagrams received out-of-order
+[  3]  6.0- 7.0 sec   247 KBytes  2.02 Mbits/sec  580.669 ms    1/   89 (1.1%)
+[  3]  6.0- 7.0 sec  84 datagrams received out-of-order
+[  3]  7.0- 8.0 sec   245 KBytes  2.01 Mbits/sec  633.569 ms    0/   89 (0%)
+[  3]  7.0- 8.0 sec  82 datagrams received out-of-order
+[  3]  8.0- 9.0 sec   240 KBytes  1.96 Mbits/sec  720.648 ms    0/   89 (0%)
+[  3]  8.0- 9.0 sec  78 datagrams received out-of-order
+[  3]  9.0-10.0 sec   253 KBytes  2.07 Mbits/sec  870.378 ms    0/   89 (0%)
+[  3]  9.0-10.0 sec  87 datagrams received out-of-order
+[  3] 10.0-11.0 sec   240 KBytes  1.96 Mbits/sec  859.542 ms    0/   89 (0%)
+[  3] 10.0-11.0 sec  78 datagrams received out-of-order
+[  3] 11.0-12.0 sec   253 KBytes  2.07 Mbits/sec  1013.400 ms    0/   90 (0%)
+[  3] 11.0-12.0 sec  86 datagrams received out-of-order
+[  3] 12.0-13.0 sec   245 KBytes  2.01 Mbits/sec  1076.783 ms    0/   89 (0%)
+[  3] 12.0-13.0 sec  82 datagrams received out-of-order
+[  3] 13.0-14.0 sec   247 KBytes  2.02 Mbits/sec  1127.847 ms    0/   89 (0%)
+[  3] 13.0-14.0 sec  83 datagrams received out-of-order
+[  3] 14.0-15.0 sec   243 KBytes  1.99 Mbits/sec  1106.289 ms    0/   89 (0%)
+[  3] 14.0-15.0 sec  80 datagrams received out-of-order
+[  3] 15.0-16.0 sec   250 KBytes  2.05 Mbits/sec  1182.821 ms    0/   89 (0%)
+[  3] 15.0-16.0 sec  85 datagrams received out-of-order
+[  3] 16.0-17.0 sec   247 KBytes  2.02 Mbits/sec  1058.271 ms    0/   89 (0%)
+[  3] 16.0-17.0 sec  83 datagrams received out-of-order
+[  3] 17.0-18.0 sec   247 KBytes  2.02 Mbits/sec  1266.875 ms    0/   90 (0%)
+[  3] 17.0-18.0 sec  82 datagrams received out-of-order
+[  3]  0.0-18.0 sec  4.37 MBytes  2.03 Mbits/sec  1135.230 ms  157/ 1785 (8.8%)
+[  3]  0.0-18.0 sec  1490 datagrams received out-of-order
+[  4] local 200.0.10.2 port 5001 connected with 200.0.10.100 port 46243
+[  4]  0.0- 1.0 sec   116 KBytes   953 Kbits/sec   4.618 ms 1648/ 1729 (95%)
+[  4]  0.0- 1.7 sec   197 KBytes   952 Kbits/sec   6.099 ms 1648/ 1785 (92%)
