@@ -37,7 +37,6 @@ c0client_iperf1 = 'c0client_iperf1.data'	# car0-client phase 2
 c0client_iperf2 = 'c0client_iperf2.data'	# car0-client phase 3
 
 # Implement the graphic function in order to demonstrate the network measurements
-# Hint: You can save the measurement in an output file and then import it here
 def graphic():
     plt.clf()	# clear current figure
 
@@ -273,8 +272,9 @@ def apply_experiment(car,client,switch):
     car[0].cmd('ip route add 200.0.10.2 via 200.0.10.50')		
     client.cmd('ip route add 200.0.10.100 via 200.0.10.150')	 
 
-   # print "*** Running CLI"
-   # CLI(gnet)
+	# Uncomment to pause on console
+    # print "*** Running CLI"
+    # CLI(gnet)
 
     # car0-car3 latency
     car[0].cmd('ping 192.168.1.7  -c 20 >> %s &' % c0_latency0)	# latency phase 1
